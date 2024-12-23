@@ -17,7 +17,8 @@ My research interests include ***Distributed security/privacy*** and ***Applied 
 # News
 - 12/2024. Our paper on cost-efficient verifiable aggregation in federated learning is accepted at **[ICASSP 2025](https://2025.ieeeicassp.org/)**.
 - 12/2024. Our paper on trustworthy aggregation in federated learning is accepted at **[INFOCOM 2025](https://infocom2025.ieee-infocom.org/)**.
-- 07/2024. Our paper on  privacy-preserving incentive announcement is accepted at **[IEEE TSC](https://ieeexplore.ieee.org/abstract/document/10584310)**.
+- 09/2024. Our paper on authentication and IoT security is accepted at **[SecureComm 2024](https://securecomm.eai-conferences.org/2024/)**
+- 07/2024. Our paper on privacy-preserving incentive announcement is accepted at **[IEEE TSC](https://ieeexplore.ieee.org/abstract/document/10584310)**.
 
 # Publication
 1. [**[ICASSP'25](https://2025.ieeeicassp.org/)**] Communication-efficient Verifiable and Oblivious Aggregation with Client Dropouts  
@@ -32,9 +33,9 @@ My research interests include ***Distributed security/privacy*** and ***Applied 
    Ivan Carvajal Roca, **Zhangshuang Guan**, Haitao Wang, Zhiguo Wan <br> 
    EAI Security and Privacy in Communication Networks International Conference  <br>
    *Acceptance Rate: Coming Soon* [[paper]()] [[slides]()]
-1. [**[TSC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)**] PIAS: Privacy-preserving incentive announcement system based on blockchain for Internet of Vehicles
-   Yonghua Zhan, Yang Yang, Hongju Cheng, Xiangyang Luo, **Zhangshuang Guan**, Robert H Deng   
-   IEEE Transactions on Services Computing  
+1. [**[TSC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)**] PIAS: Privacy-preserving incentive announcement system based on blockchain for Internet of Vehicles  <br> 
+   Yonghua Zhan, Yang Yang, Hongju Cheng, Xiangyang Luo, **Zhangshuang Guan**, Robert H Deng    <br> 
+   IEEE Transactions on Services Computing   <br> 
    *Impact Factor: 5.5* [[paper](https://ieeexplore.ieee.org/abstract/document/10584310)]  
 1. [**[TDSC'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)**] BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs <br>
    **Zhangshuang Guan**, Zhiguo Wan, Yang Yang, Yan Zhou, Butian Huang <br>
