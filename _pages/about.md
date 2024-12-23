@@ -27,7 +27,11 @@ My research interests include ***Distributed security/privacy*** and ***Applied 
 1. [**[INFOCOM'25](https://infocom2025.ieee-infocom.org/)**] Input Integrity and Authentic Results: Towards Trustworthy Aggregation in Federated Learning  
    **Zhangshuang Guan**, Yulin Zhao, Zhiguo Wan, and Wei Wang  
    IEEE International Conference on Computer Communications  
-   *Acceptance Rate: 18.65% (272 of 1458)* [[paper]()] [[slides]()]  
+   *Acceptance Rate: 18.65% (272 of 1458)* [[paper]()] [[slides]()]
+1. [**[SecureComm'24](https://securecomm.eai-conferences.org/2024/)**] A Lightweight Group Authentication Framework for Cross-Domain Internet of Things <br>
+   Ivan Carvajal Roca, **Zhangshuang Guan**, Haitao Wang, Zhiguo Wan <br> 
+   EAI Security and Privacy in Communication Networks International Conference  <br>
+   *Acceptance Rate: Coming Soon* [[paper]()] [[slides]()]
 1. [**[TSC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)**] PIAS: Privacy-preserving incentive announcement system based on blockchain for Internet of Vehicles
    Yonghua Zhan, Yang Yang, Hongju Cheng, Xiangyang Luo, **Zhangshuang Guan**, Robert H Deng   
    IEEE Transactions on Services Computing  
