@@ -31,7 +31,7 @@ My research interests include ***Distributed security/privacy*** and ***Applied 
    *Acceptance Rate: 18.65% (272 of 1458)* [[paper]()] [[slides]()]
 1. [**[SecureComm'24](https://securecomm.eai-conferences.org/2024/)**] A Lightweight Group Authentication Framework for Cross-Domain Internet of Things <br>
    Ivan Carvajal Roca, **Zhangshuang Guan**, Haitao Wang, Zhiguo Wan <br> 
-   EAI Security and Privacy in Communication Networks International Conference  <br>
+   EAI International Conference on Security and Privacy in Communication Networks  <br>
    *Acceptance Rate: Coming Soon* [[paper]()] [[slides]()]
 1. [**[TSC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)**] PIAS: Privacy-preserving incentive announcement system based on blockchain for Internet of Vehicles  <br> 
    Yonghua Zhan, Yang Yang, Hongju Cheng, Xiangyang Luo, **Zhangshuang Guan**, Robert H Deng    <br> 
