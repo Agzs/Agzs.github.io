@@ -15,7 +15,7 @@ I'm a PhD student in Computer Science at Zhejiang University under the supervisi
 My research interests include ***Distributed security/privacy*** and ***Applied Cryptography***. 
 
 # News
-- 04/2025. Our paper on efficient and verifiable one-pass secure aggregation with TEE for federated learning is accepted at **[IEEE TDSC]()**
+- 04/2025. Our paper on one-pass secure aggregation with TEE in federated learning is accepted at **[IEEE TDSC]()**
 - 12/2024. Our paper on cost-efficient verifiable aggregation in federated learning is accepted at **[ICASSP 2025](https://2025.ieeeicassp.org/)**.
 - 12/2024. Our paper on trustworthy aggregation in federated learning is accepted at **[INFOCOM 2025](https://infocom2025.ieee-infocom.org/)**.
 - 09/2024. Our paper on authentication and IoT security is accepted at **[SecureComm 2024](https://securecomm.eai-conferences.org/2024/)**
